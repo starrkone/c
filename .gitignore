@@ -1,6 +1,8 @@
 # C ignore
 *.dSYM
-
+*.i
+*.o
+*.s
 
 # maven ignore
 target/
