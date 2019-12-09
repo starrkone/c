@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "student.h"
+#include <student.h>
 
 void read(FILE * fp, int n);
 
