@@ -3,6 +3,7 @@
 *.i
 *.o
 *.s
+*.out
 
 # maven ignore
 target/
